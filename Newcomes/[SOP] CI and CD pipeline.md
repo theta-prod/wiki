@@ -1,4 +1,4 @@
-# [SOP] How to start to impleent CI and CD
+# [SOP] How to start to implement CI and CD
 
 - **Metadata** : `type: SOP` `scope: SRE` 
 - **Techs Need** :
@@ -68,7 +68,7 @@ examples:
 
 #### 📝 How start to build cd pipeline
 examples:
-- [Tutorial] CD by docker-compose.md
+- [[Tutorial] CD by docker-compose.md](https://github.com/theta-prod/wiki/blob/main/SRE/%5BTutorial%5D%20CD%20by%20docker-compose.md)
 
 #### 📝 What's is must
 - Open a repo for depoly
