@@ -21,12 +21,13 @@
 
 | Sub title | decription | memo |
 | ------ | ------ | ------ |
+| Page Template | you can copy it | - |
 | Metadata for wiki | types can use for Metadata | - |
 | Techs need for wiki | Add tags for wiki | - |
 | Status for wiki | Add tags for wiki | - |
 | You should already know | something should be learned first. | - |
 | About the wiki | Create decription for wiki | - |
-| Page Template | you can copy it | - |
+| [Optional] Sections Template | you can copy it | - |
 
 <br/><br/>
 ## ✨  Sections
@@ -34,7 +35,43 @@
 <br/>
 
 ---
+### **Page Template**
 
+```
+# [...] <WIKI PAGE NAME>
+
+- **Metadata** : `type: ...` `scope: ...` 
+- **Techs Need** : `...` `...`
+- **Status** : `..`
+<br/><br/>
+
+
+## ✨ You should already know
+
+> ...
+
+👩‍💻 👨‍💻
+
+<br/><br/>
+
+## ✨ About the wiki
+
+- `Situation:`  ... 
+- `Target:` ...
+
+- `Index:`
+
+| Sub title | decription | memo |
+| ------ | ------ | ------ |
+| - | - | - |
+| - | - | - |
+
+```
+
+<br/><br/>
+
+
+---
 ### **`Metadata` for Wiki**
 > Create Metadatas for wiki.
 > Metadatas would contain `type` and `scope`.
@@ -100,6 +137,7 @@
 
 <br/><br/>
 
+---
 ### **You should already know**
 > Alarm people to study some topic before read this wiki.
 
@@ -146,43 +184,11 @@
 
 <br/><br/>
 
----
-### **Page Template**
 
-```
-# [...] <WIKI PAGE NAME>
-
-- **Metadata** : `type: ...` `scope: ...` 
-- **Techs Need** : `...` `...`
-- **Status** : `..`
-<br/><br/>
-## ✨ You should already know
-
-> ...
-
-👩‍💻 👨‍💻
-
-<br/><br/>
-
-## ✨ About the wiki
-
-- `Situation:`  ... 
-- `Target:` ...
-
-- `Index:`
-
-| Sub title | decription | memo |
-| ------ | ------ | ------ |
-| - | - | - |
-| - | - | - |
-
-```
-
-<br/><br/>
 
 ---
 ### **[Optional] Sections Template**
 > We offer some type for us to copy and paste in the feature.if you want to offer more template. submit your PR!
 
 ####  📝 Regular Sections
-- [[REF] Build a Section for WiKi.md]()
+- [[REF]Build_a_Section.md](DocumentExample/[REF]Build_a_Section.md)

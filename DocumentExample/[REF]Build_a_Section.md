@@ -6,7 +6,7 @@
 
 ## ✨ You should already know
 
-> It's example for [SOP] Build a WiKi Page.md
+> It's example for [[SOP] Build a WiKi Page.md](Newcomes/[SOP] Build a WiKi Page.md)
 
 👩‍💻 👨‍💻
 
@@ -33,6 +33,9 @@
 #### 📝 A template for making section.
 > cope it to new sections.
 ```
+
+---
+
 ### **...**
 > ...
 

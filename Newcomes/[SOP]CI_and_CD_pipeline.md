@@ -57,7 +57,7 @@ secrets:
 
 #### 📝 How start to build ci pipeline
 examples:
-- [Tutorial] CI by GitHub Action.md
+- [[Tutorial] CD by docker-compose.md](/SRE/[Tutorial]CI_by_GitHub_Action.md)
 
 
 ### **CD**
@@ -68,7 +68,7 @@ examples:
 
 #### 📝 How start to build cd pipeline
 examples:
-- [[Tutorial] CD by docker-compose.md](https://github.com/theta-prod/wiki/blob/main/SRE/%5BTutorial%5D%20CD%20by%20docker-compose.md)
+- [[Tutorial] CD by docker-compose.md](/SRE/[Tutorial]CD_by_docker-compose.md)
 
 #### 📝 What's is must
 - Open a repo for depoly
