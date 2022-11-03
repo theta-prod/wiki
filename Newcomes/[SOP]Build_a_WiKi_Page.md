@@ -191,4 +191,4 @@
 > We offer some type for us to copy and paste in the feature.if you want to offer more template. submit your PR!
 
 ####  📝 Regular Sections
-- [[REF]Build_a_Section.md](DocumentExample/[REF]Build_a_Section.md)
+- [[REF]Build_a_Section.md](../DocumentExample/[REF]Build_a_Section.md)
