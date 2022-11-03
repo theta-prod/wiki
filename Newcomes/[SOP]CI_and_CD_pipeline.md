@@ -6,7 +6,7 @@
   - `unit test` `test coverage`
   - `Github Action` 
   - `DockerHub` 
-- **Status** : `on-going`
+- **Status** : `need-review`
 
 ## ✨ You should already know
 
@@ -57,7 +57,7 @@ secrets:
 
 #### 📝 How start to build ci pipeline
 examples:
-- [[Tutorial] CD by docker-compose.md](/SRE/[Tutorial]CI_by_GitHub_Action.md)
+- [[Tutorial] CD by docker-compose.md](../SRE/[Tutorial]CI_by_GitHub_Action.md)
 
 
 ### **CD**
@@ -68,7 +68,7 @@ examples:
 
 #### 📝 How start to build cd pipeline
 examples:
-- [[Tutorial] CD by docker-compose.md](/SRE/[Tutorial]CD_by_docker-compose.md)
+- [[Tutorial] CD by docker-compose.md](../SRE/[Tutorial]CD_by_docker-compose.md)
 
 #### 📝 What's is must
 - Open a repo for depoly
