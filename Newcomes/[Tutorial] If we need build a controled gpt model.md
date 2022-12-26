@@ -92,4 +92,4 @@ FastAPI基於Pydantic和類型提示，以驗證，序列化和反序列化數�
 
 ### **參考文獻**
 1. Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., ... & Lowe, R. (2022). Training language models to follow instructions with human feedback. arXiv preprint arXiv:2203.02155.
-2. IBM, Apply design thinking to AI. In AI Essentials: Data. Retrieved from https://www.ibm.com/design/thinking/page/toolkit/activity/ai-essentials-data
+2. IBM. (2021, Nov). Apply design thinking to AI. In Enterprise Design Thinking(AI Essentials: Data). Retrieved from https://www.ibm.com/design/thinking/page/toolkit/activity/ai-essentials-data
