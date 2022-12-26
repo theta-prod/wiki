@@ -56,7 +56,7 @@
 這是預期目標是在內容生成的部分，因此我們使用開源的GPT2的中文版本模型
 與[InstructGPT]("https://arxiv.org/abs/2203.02155")所介紹的訓練流程流程。
 ![image](https://cdn.openai.com/chatgpt/draft-20221129c/ChatGPT_Diagram.svg)
-根據該流程我們調整幾個步驟後，主旨為使用`短文與長文對應`來製作`內容擴展`的模型，並建立`情緒模型`作為`獎勵模型`來加以控制。image
+根據該流程我們調整幾個步驟後，並參考過往研究之摘要訓練任務設置，最終透過`短文與長文對應`來製作`內容擴展`的模型，並建立`情緒模型`作為`獎勵模型`來加以控制。image
 ![image](https://raw.githubusercontent.com/theta-prod/wiki/main/images/system%20GPT.png)
 
 ### **資料蒐集**
@@ -93,3 +93,5 @@ FastAPI基於Pydantic和類型提示，以驗證，序列化和反序列化數�
 ### **參考文獻**
 1. Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., ... & Lowe, R. (2022). Training language models to follow instructions with human feedback. arXiv preprint arXiv:2203.02155.
 2. IBM. (2021, Nov). Apply design thinking to AI. In Enterprise Design Thinking(AI Essentials: Data). Retrieved from https://www.ibm.com/design/thinking/page/toolkit/activity/ai-essentials-data
+3. Budzianowski, P., & Vulić, I. (2019). Hello, it's GPT-2--how can I help you? towards the use of pretrained language models for task-oriented dialogue systems. arXiv preprint arXiv:1907.05774.
+4. Kieuvongngam, V., Tan, B., & Niu, Y. (2020). Automatic text summarization of covid-19 medical research articles using bert and gpt-2. arXiv preprint arXiv:2006.01997.
