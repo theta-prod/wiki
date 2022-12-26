@@ -54,9 +54,10 @@
 
 ### **模型架構選擇**
 這是預期目標是在內容生成的部分，因此我們使用開源的GPT2的中文版本模型
-與[InstructGPT]("https://arxiv.org/abs/2203.02155")所介紹的流程。
+與[InstructGPT]("https://arxiv.org/abs/2203.02155")所介紹的訓練流程流程。
 ![image](https://cdn.openai.com/chatgpt/draft-20221129c/ChatGPT_Diagram.svg)
-其中主旨為使用`短文與長文對應`來製作`內容擴展`的模型，並建立`情緒模型`作為`獎勵模型`來加以控制。
+根據該流程我們調整幾個步驟後，主旨為使用`短文與長文對應`來製作`內容擴展`的模型，並建立`情緒模型`作為`獎勵模型`來加以控制。image
+![image](https://raw.githubusercontent.com/theta-prod/wiki/main/images/system%20GPT.png)
 
 ### **資料蒐集**
 資料蒐集我們有使用`IBM`提供的[Apply design thinking to AI](https://www.ibm.com/design/thinking/page/courses/AI_Essentials) 課程中
