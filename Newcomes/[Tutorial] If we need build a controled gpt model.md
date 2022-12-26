@@ -88,3 +88,8 @@ Pipeline是從Transformers資料庫中抽取出模型，提供專用於建置網
 搭配[FastAPI](https://fastapi.tiangolo.com/) 作為服務提供的介面，FastAPI是用於在Python中開發RESTful API的Web框架。
 FastAPI基於Pydantic和類型提示，以驗證，序列化和反序列化數據，並自動生成OpenAPI文檔。
 它完全支持異步編程，並且可以與Gunicorn和ASGI服務器一起運行以用於Uvicorn和Hypercorn等產品。
+
+
+### **參考文獻**
+1. Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., ... & Lowe, R. (2022). Training language models to follow instructions with human feedback. arXiv preprint arXiv:2203.02155.
+2. IBM, Apply design thinking to AI. In AI Essentials: Data. Retrieved from https://www.ibm.com/design/thinking/page/toolkit/activity/ai-essentials-data
