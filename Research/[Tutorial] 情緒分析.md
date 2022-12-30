@@ -112,8 +112,8 @@
 | 15. | Confusion | 混亂| 混亂 |
 | 16. | Craving | 渴望| 渴望 | 
 | 17. | Disgust | 厭惡| 厭惡 | 
-| 18. | Empathic pain | 同情痛苦| 同情 | 
-| 19. | Sympathy | 同情| 同情 |
+| 18. | Empathic pain | 同情痛苦| 同情同理 | 
+| 19. | Sympathy | 同情| 同情同理 |
 | 20. | Entrancement | 有希望的 | 有希望的 |
 | 21. | Excitement | 興奮| 興奮 |
 | 22. | Fear	 | 畏懼| 畏懼 |
