@@ -96,36 +96,36 @@
 | 標號 | 英文 | 情緒 | 組別 | 
 | ------ | ------ | ------ | ------ |
 | 1. | Pride	 | 驕傲| 自豪 |
-| 2. | Admiration | 欽佩| 自豪 |
-| 3. | Triumph	 | 勝利| 自豪 |
-| 4. | Adoration | 崇拜| 崇拜 | 
-| 5. | Aesthetic appreciation | 美學欣賞| 欣賞喜歡 | 
-| 6. | Amusement | 娛樂消遣| 歡樂 | 
-| 7. | Disappointment| 失望| 失望憤怒 |
-| 8. | Anger	 | 生氣| 失望憤怒 |
-| 9. | Contempt | 鄙視| 失望憤怒 |
-| 10. | Anxiety	 | 焦慮| 焦慮 | 
-| 11. | Awe | 敬畏| 敬畏 | 
-| 12. | Awkwardness | 尷尬| 尷尬 | 
-| 13. | Boredom | 無聊| 無聊 | 
-| 14. | Calmness | 冷靜| 平靜 | 
-| 15. | Confusion | 混亂| 混亂 |
-| 16. | Craving | 渴望| 渴望 | 
-| 17. | Disgust | 厭惡| 厭惡 | 
-| 18. | Empathic pain | 同情痛苦| 同情同理 | 
-| 19. | Sympathy | 同情| 同情同理 |
-| 20. | Entrancement | 有希望的 | 有希望的 |
-| 21. | Excitement | 興奮| 興奮 |
-| 22. | Fear	 | 畏懼| 畏懼 |
-| 23. | Horror | 恐怖| 恐怖 |
-| 24. | Interest | 興致| 興致 |
-| 25. | Joy | 喜悅| 喜悅 |
-| 26. | Nostalgia	 | 懷舊| 懷舊 |
-| 27. | Relief	 | 寬慰| 寬慰 |
-| 28. | Romance	 | 浪漫| 浪漫 |
-| 29. | Sadness	 | 悲傷| 悲傷 |
-| 30. | Satisfaction | 滿足| 滿足 |
-| 31. | Sexual desire	 | 性慾| 性慾 |
-| 32. | Surprise	 | 驚訝| 驚訝 |
-| 33. | Envy | 嫉妒| 嫉妒 | 
-| 34. | Guilt	 | 罪惡感| 罪惡感 |
+| 1. | Admiration | 欽佩| 自豪 |
+| 1. | Triumph	 | 勝利| 自豪 |
+| 2. | Adoration | 崇拜| 崇拜 | 
+| 3. | Aesthetic appreciation | 美學欣賞| 欣賞喜歡 | 
+| 4. | Amusement | 娛樂消遣| 歡樂 | 
+| 5. | Disappointment| 失望| 失望憤怒 |
+| 5. | Anger	 | 生氣| 失望憤怒 |
+| 5. | Contempt | 鄙視| 失望憤怒 |
+| 6. | Anxiety	 | 焦慮| 焦慮 | 
+| 7. | Awe | 敬畏| 敬畏 | 
+| 8. | Awkwardness | 尷尬| 尷尬 | 
+| 9. | Boredom | 無聊| 無聊 | 
+| 10. | Calmness | 冷靜| 平靜 | 
+| 11. | Confusion | 混亂| 困惑 |
+| 12. | Craving | 渴望| 渴望 | 
+| 13. | Disgust | 厭惡| 厭惡 | 
+| 14. | Empathic pain | 同情痛苦| 同情同理 | 
+| 14. | Sympathy | 同情| 同情同理 |
+| 15. | Entrancement | 有希望的 | 有希望的 |
+| 16. | Excitement | 興奮| 興奮 |
+| 17. | Fear	 | 畏懼| 畏懼 |
+| 18. | Horror | 恐怖| 驚悚 |
+| 19. | Interest | 興致| 興致 |
+| 20. | Joy | 喜悅| 喜悅 |
+| 21. | Nostalgia	 | 懷舊| 懷舊 |
+| 22. | Relief	 | 寬慰| 寬慰 |
+| 23. | Romance	 | 浪漫| 浪漫 |
+| 24. | Sadness	 | 悲傷| 悲傷 |
+| 25. | Satisfaction | 滿足| 滿足 |
+| 26. | Sexual desire	 | 性慾| 性慾 |
+| 27. | Surprise	 | 驚訝| 驚訝 |
+| 28. | Envy | 嫉妒| 嫉妒 | 
+| 29. | Guilt	 | 罪惡感| 罪惡感 |
