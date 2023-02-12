@@ -86,7 +86,8 @@
 | ------ | ------ | 
 | SOP | Anyone has to know |
 | REF | something you want to sharing | 
-| Tutorial | teach other how to rebuilt something |
+| Tutorial | teach other about new knowledge |
+| Course | - |
 
 <br/>
 
