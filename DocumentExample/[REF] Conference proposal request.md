@@ -1,4 +1,4 @@
-# [REF] 會議提案請求
+# [REF] Conference proposal request
 
 - **Metadata** : `type: REF` `scope: wiki` 
 - **Techs Need** : `markdown` 
