@@ -7,7 +7,6 @@
 
 ## ✨ You should already know
 - Python 
-- NLP
 
 👩‍💻 👨‍💻
 
@@ -32,18 +31,18 @@
 ---
 <br>
 
-### **Concept of API and Restful API **
-> 第一週: 了解 API 開發的概念和應用
-1. 學習什麼是 API，它的作用和優點
-2. 體驗 API 應用的實際範例，例如數據分析、互聯網服務等
+### **Concept of API and Restful API**
+> 1st week: What's the API?
+1. something about API.
+2. How to used it?
 3. restful api introduction.
 
 ####  📝 
 <br>
 
 
-### **設計 API **
-> 第二週: 設計 API 
+### **Design API**
+> 2nd week: Design API 
 1. schemas and method
 2. Design API By Swagger
 3. Implement Swagger API
@@ -57,7 +56,7 @@
 
 
 ### **sharing your service**
-> 第三週: 實作 API 開發的
+> 3rd week: share you api
 1. operation od API
 2. GCP/ Azure/ AWS
 3. docker/ docker-compose
