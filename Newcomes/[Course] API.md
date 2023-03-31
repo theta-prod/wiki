@@ -1,4 +1,4 @@
-# [Tutorial] NLP 深度學習模型實作
+# [Tutorial] API
 
 - **Metadata** : `type: Tutorial` `scope: Research, NLP` 
 - **Techs Need** : `none`
@@ -17,9 +17,9 @@
 
 | Sub title | decription | memo |
 | ------ | ------ | ------ |
-| 了解 NLP 模型的使用 | 如何使用模型 | 第一週 |
-| 實作 NLP 模型訓練和數據預處理| 模型訓練和數據預處理 | 第二週 |
-| 深入探討 NLP 模型的訓練技巧和應用 | 優化模型與模型管理 | 第三週 |
+| - | - | - |
+| - | - | - |
+| - | - | - |
 
 
 
