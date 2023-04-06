@@ -33,25 +33,24 @@
 
 ### **CONCEPT OF API AND RESTFUL**
 > 1st week: What's the API?
-1. something about API.
-2. How to used it?
-3. restful api introduction.
+1. Something about API. ans How to used it?
+2. Restful api - Schemas and Method.
+3. Swagger Editor
 
 
 
 ### **DESIGN API**
-> 2nd week: Design API 
-1. schemas and method
+> 2nd week: Fast API 
+1. Schemas and Method
 2. Design API By Swagger
 3. Implement Swagger API
-
 
 <br>
 
 
 ### **SHARING SERVICE**
 > 3rd week: share you api
-1. operation od API
+1. operation of API
 2. GCP/ Azure/ AWS
 3. docker/ docker-compose
 
