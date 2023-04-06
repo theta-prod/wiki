@@ -31,13 +31,13 @@
 ---
 <br>
 
-### **Concept of API and Restful API**
+### **CONCEPT OF API AND RESTFUL**
 > 1st week: What's the API?
 1. something about API.
 2. How to used it?
 3. restful api introduction.
 
-####  📝 1. Topic: Schemas and Methods in Programming
+#### 1. Topic: Schemas and Methods in Programming
 
 Schemas and methods are essential concepts in programming that help developers to define and organize data structures and behavior in their applications. A schema is a blueprint or definition of a data structure, while a method is a procedure or function that performs a specific task or action on that data structure. Schemas and methods are used in many programming paradigms, including object-oriented programming, functional programming, and data-driven programming. Understanding schemas and methods can help developers create more efficient, maintainable, and scalable applications.
 **Summary:** Schemas and methods are important programming concepts that help organize data structures and behavior in applications.
@@ -56,7 +56,7 @@ Once an API has been designed using Swagger, it can be implemented using a varie
 Summary: Implementing a Swagger API involves configuring the server environment, generating code, and testing the API to ensure compliance with the original design.
 
 
-### **Design API**
+### **DESIGN API**
 > 2nd week: Design API 
 1. schemas and method
 2. Design API By Swagger
@@ -80,7 +80,7 @@ Docker is an open-source platform that allows developers to package, deploy, and
 <br>
 
 
-### **sharing your service**
+### **SHARING SERVICE**
 > 3rd week: share you api
 1. operation od API
 2. GCP/ Azure/ AWS
