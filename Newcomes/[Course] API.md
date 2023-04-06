@@ -42,8 +42,8 @@
 ### **DESIGN API**
 > 2nd week: Fast API 
 1. About the Fast API
-2. Create API By FastAPI
-3. Implement Swagger API
+2. Create API By FastAPI / POST AND GET
+3. Postman
 
 <br>
 
