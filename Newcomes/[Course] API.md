@@ -77,6 +77,8 @@ https://fastapi.tiangolo.com/zh/features/
 > Creating an API with FastAPI: A step-by-step guide to creating a simple API using FastAPI and Python, with both POST and GET endpoints.
 ```
 In this tutorial, we will walk through the process of creating a simple API using FastAPI and Python. We will start by installing the required dependencies and setting up a basic project structure. Then, we will define our API endpoints, including both POST and GET requests, and use FastAPI's automatic data validation to ensure that our data is formatted correctly. Finally, we will test our API using the FastAPI built-in web server.
+
+https://stackoverflow.com/a/63833779/16499630
 ```
 
 
