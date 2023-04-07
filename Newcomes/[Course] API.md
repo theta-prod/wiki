@@ -17,9 +17,9 @@
 
 | Sub title | decription | memo |
 | ------ | ------ | ------ |
-| - | - | - |
-| - | - | - |
-| - | - | - |
+| CONCEPT OF API AND RESTFUL | intro API. | - |
+| DESIGN API | Fast API | - |
+| SHARING SERVICE | maintaining API  | - |
 
 
 
@@ -90,36 +90,8 @@ Postman is a popular API development tool that allows developers to test and int
 ### **SHARING SERVICE**
 > 3rd week: share you api
 1. maintain an API service
-> This class covers the fundamentals of building and maintaining API services, including design, development, monitoring, scaling, security, and tools.
-```
-- Introduction to API services and their importance in modern software development
-- Best practices for designing and developing API services
-- Techniques for monitoring and debugging API services in production
-- Strategies for scaling API services to handle high traffic and load
-- Security considerations for API services, including authentication and authorization
-- Common tools and frameworks for building and maintaining API services
-```
-
 2. maintain an API service with docker/ docker-compose
-> This class focuses on using Docker and Docker-Compose to build, deploy, and scale API services in containerized environments.
-```
-- Introduction to Docker and containerization
-- Best practices for building Docker images for API services
-- Techniques for using Docker-Compose to orchestrate multi-container applications
-- Strategies for deploying and scaling Dockerized API services
-- Tools for monitoring and managing Docker containers in production
-```
-
-
 3. maintain an API service on GCP/ Azure/ AWS
-> his class covers the skills and knowledge necessary to deploy and maintain API services on major cloud platforms such as GCP, Azure, or AWS.
-```
-- Introduction to cloud computing and cloud providers
-- Best practices for deploying and managing API services on GCP, Azure, or AWS
-- Techniques for configuring and optimizing cloud infrastructure for API services
-- Strategies for scaling and auto-scaling API services in cloud environments
-- Tools for monitoring and troubleshooting API services in the cloud
-```
 
 
 <br>
