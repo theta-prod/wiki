@@ -68,6 +68,8 @@ https://editor.swagger.io/
 > A brief introduction to the FastAPI Python web framework and its features.
 ```
 FastAPI is a modern, fast (hence the name), web framework for building APIs with Python 3.6+ based on standard Python type hints. It provides high performance and intuitive APIs for developers, and is designed to be easy to use, maintainable, and scalable. One of the main features of FastAPI is its automatic data validation, which uses Python's type annotations to validate input data and generate accurate API documentation. Other notable features include support for asynchronous programming, automatic generation of OpenAPI and JSON schema documentation, and built-in support for OAuth2 authentication.
+
+https://fastapi.tiangolo.com/zh/features/
 ```
 
 
