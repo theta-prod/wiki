@@ -38,7 +38,9 @@
 ```
 APIs, or Application Programming Interfaces, are software intermediaries that enable two applications to communicate with each other. APIs allow developers to access specific functionalities of an application or service without needing to understand how it works under the hood.
 
-https://memes.tw/developers
+1. https://memes.tw/developers
+2. https://memes.tw/wtf/api?contest=11
+3. https://www.json.cn/
 ```
 
 2. Restful api - Schemas and Method.
